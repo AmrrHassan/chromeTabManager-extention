@@ -1,7 +1,7 @@
 # ChromeTabManager
 
 ChromeTabManager is a basic Chrome extension that provides functionality to save and organize browser tabs, offering an enhanced browsing experience. 
-Basic chrome extension to manipulate the DOM using JS
+Basic Chrome extension to manipulate the DOM using JS
 
 ## Features
 
@@ -52,6 +52,3 @@ ChromeTabManager supports the following keyboard shortcuts:
 * Ctrl+Shift+D (Windows/Linux) or Cmd+Shift+D (Mac): Create a new tab group.
 * Ctrl+Shift+M (Windows/Linux) or Cmd+Shift+M (Mac): Move the current tab to a specific group.
 * Ctrl+F (Windows/Linux) or Cmd+F (Mac): Open the search bar to filter tabs.
-
-# chromeTabManager-extention
-# chromeTabManager-extention
