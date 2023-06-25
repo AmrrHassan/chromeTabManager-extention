@@ -1,21 +1,55 @@
-# coc8640b4ab7ea074c56f6bdc
+# ChromeTabManager
 
-Quick start:
+ChromeTabManager is a basic Chrome extension that provides functionality to save and organize browser tabs, offering an enhanced browsing experience. 
+Basic chrome extension to manipulate the DOM using JS
 
+## Features
+
+- Save and organize browser tabs
+- Manage tabs using intuitive keyboard shortcuts
+- Create custom tab groups for better organization
+- Easily search and filter saved tabs
+- Import and export tab data for backup and sharing
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/amrrhassan/ChromeTabManager.git
 ```
-$ npm install
-$ npm start
-````
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+Open Chrome and navigate to chrome://extensions.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+Enable Developer mode.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+Click on "Load unpacked" and select the cloned repository folder.
 
-Happy Coding!
+The ChromeTabManager extension will be added to your browser.
+
+## Usage
+- Once the ChromeTabManager extension is installed, you can start using it to manage your browser tabs effectively.
+
+- Saving Tabs
+To save a tab:
+
+- Click on the ChromeTabManager extension icon.
+* Click on the "Save Tab" button or use the shortcut Ctrl+S (Windows/Linux) or Cmd+S (Mac).
+
+#### Organizing Tabs
+
+Click on the ChromeTabManager extension icon.
+
+Click on the "Import/Export" button.
+
+Choose the desired option: "Import Tabs" or "Export Tabs".
+
+#### Keyboard Shortcuts
+ChromeTabManager supports the following keyboard shortcuts:
+
+* Ctrl+S (Windows/Linux) or Cmd+S (Mac): Save the current tab.
+
+* Ctrl+Shift+D (Windows/Linux) or Cmd+Shift+D (Mac): Create a new tab group.
+* Ctrl+Shift+M (Windows/Linux) or Cmd+Shift+M (Mac): Move the current tab to a specific group.
+* Ctrl+F (Windows/Linux) or Cmd+F (Mac): Open the search bar to filter tabs.
+
