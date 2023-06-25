@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <input type="text" id="input-el">
+    <button id="input-btn">SAVE INPUT</button>
+    <button id="tab-btn">SAVE TAB</button>
+    <div class="delete-div">
+        <button id="delete-btn">DELETE ALL</button>
+        <div class="tooltip">
+            <button class="tooltip-notice">?</button>
+            <span class="tooltip-text">Double click to delete tabs</span>
+        </div>
+    </div>
+    <div class="tab-container">
+        <div class="tab" id="tab-ul">
+            <button class="tab-btn active" data-tab="all">All</button>
+        </div>
+        <div class="tab-content">
+            <div class="tab-pane active" data-tab="all">
+
+            </div>
+        </div>
+    </div>
+
+    <ul id="ul-el">
+    </ul>
+    <script src="index.js"></script>
+</body>
+
+</html>
