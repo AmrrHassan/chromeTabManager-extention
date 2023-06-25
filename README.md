@@ -53,3 +53,4 @@ ChromeTabManager supports the following keyboard shortcuts:
 * Ctrl+Shift+M (Windows/Linux) or Cmd+Shift+M (Mac): Move the current tab to a specific group.
 * Ctrl+F (Windows/Linux) or Cmd+F (Mac): Open the search bar to filter tabs.
 
+# chromeTabManager-extention
