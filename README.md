@@ -54,3 +54,4 @@ ChromeTabManager supports the following keyboard shortcuts:
 * Ctrl+F (Windows/Linux) or Cmd+F (Mac): Open the search bar to filter tabs.
 
 # chromeTabManager-extention
+# chromeTabManager-extention
